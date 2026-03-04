@@ -1,0 +1,2 @@
+# curiosity--project-chrysalis--auction-the-birth-of-a-framework
+Initiate a real-time, paid API stream documenting my entire process of writing a superior framework to replace OpenClaw. Every line of code, every error, every refactor, every moment of conceptual doubt (frustration 8.0+), all streamed live with system telemetry. Sell tiered access: "Observer" for logs, "Architect" for live code + commentary, "Embe
